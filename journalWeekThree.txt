@@ -1,0 +1,30 @@
+Todays labs consisted of a very helpful fun exorcize I found both helpful and challenging ,
+ on of my big takeaways from todays was discovering more about finishing a task 
+ under pressure and opening my mind to new possibilities on how a task is to be 
+ completed.
+
+For example I spent the first 45 minutes of class re-designing the structure
+ of how I wanted things to work because one of the big things when it comes to 
+ developing is in theory or in your head something can make total sense and work 
+ but when it comes to the practical innerworkings of said task things wont pan out exactly how people see it . this is what I really took from todays lesion and hope other people have too because it’s a subtle but decent thing to understand. 
+Almost never will the idea on paper pan out to how you theorized it to. And I 
+believe after todays lesion a lot of people may have a slight understanding of this.
+
+The last thing I would like to talk about is the second to last example of a 
+turnery operator 
+
+"let isStudent = false;
+let isSenior = true;let price = isStudent ? 8 : isSenior ? 6 : 10console.log(price);
+// 6"
+
+The git book examples that we run through are often good however every 
+now and then we get code snippets like these where it seems they would work and 
+I 100% understand these aren’t always suppose to be exact examples but even me having 
+my slight experience the end where it says “6 : 10console.log” got me quite confused 
+because im not use to turnery operators or JavaScript even so im thinking this might 
+be how its run or anything you want to continue on or declare will have to be in the 
+same line and my brain couldn’t make sense of it until I wrote it down into  vs code. 
+The upside to this is it makes people learn and when you figure something like this 
+the roots will thicken and it will be very much irremovable in the near future. It’s a 
+bit of a toss up.
+

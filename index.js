@@ -35,3 +35,37 @@ switch (true) {
             console.log('Fail score is lower than 39');
 
 }
+
+
+
+
+let personObj = {
+    name: 'kyran',
+    age: 83,
+}
+
+if (personObj.age > 70 ){
+console.log('old boiii') 
+}else{
+    console.log('young boii')
+}
+
+
+
+personObj.age > 70 ?  console.log('yes') : console.log('no');
+
+
+let isMale = true ;
+let isFemale = false;
+let price = isFemale ? 8 : isMale ? 20 : 22;
+console.log(price);
+
+
+let iStudent = false;
+let sprice = 12;
+iStudent ? (
+    sprice = 8,
+  console.log('Please check for student ID')
+) : (
+    console.log('Enjoy the movie')
+);
